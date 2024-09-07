@@ -1,4 +1,4 @@
-# lissurvey-data-in-brief
+# lis-survey-framework
 
 Repository for storing the data used in the Data in Brief paper
 
